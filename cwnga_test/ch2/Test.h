@@ -4,7 +4,7 @@
 
 
 //property for pulice set/get
-//@property int value1;
+@property int value1;
 -(void) func1;
 
 @end
